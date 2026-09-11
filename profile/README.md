@@ -21,7 +21,7 @@ This is financial-infrastructure engineering, not a generic Web3 frontend role.
 ## Live Platforms
 
 - **Token Studio**: institutional fund operations, governance, KYC and fund-eligibility workflows, NAV operations, and settlement administration. [Open Token Studio](https://admin.setsyn.com)
-- **CINA DApp**: user-facing access to supported CINA on-chain flows. [Open CINA DApp](https://wrmb-dapp.dev.isecsp.cn)
+- **CINA DApp**: user-facing access to supported CINA on-chain flows. [Open CINA DApp](https://app.setsyn.com)
 
 ## Protocol Engineering
 
