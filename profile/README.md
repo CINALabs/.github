@@ -23,10 +23,10 @@ This is financial-infrastructure engineering, not a generic Web3 frontend role.
 - **Token Studio**: institutional fund operations, governance, KYC and fund-eligibility workflows, NAV operations, and settlement administration. [Open Token Studio](https://admin.setsyn.com)
 - **CINA DApp**: user-facing access to supported CINA on-chain flows. [Open CINA DApp](https://app.setsyn.com)
 
-## Protocol Engineering
+## Community Contribution
 
-Read the [full v4.2 protocol engineering recruitment announcement](https://github.com/CINALabs/.github/discussions/1) for the complete settlement lifecycle, verification scope, engineering focus, and collaboration details.
+Read the [full v4.2 protocol engineering community announcement](https://github.com/CINALabs/.github/discussions/1) for the complete settlement lifecycle, verification scope, engineering focus, and collaboration details.
 
-For engineering collaboration or recruitment inquiries:
+For engineering collaboration or community contribution inquiries:
 
 **Telegram: [@Ansu_CINA](https://t.me/Ansu_CINA)**
