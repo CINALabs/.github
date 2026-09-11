@@ -1,12 +1,20 @@
 # CINA Labs
 
-## Institutional On-Chain Infrastructure
+## CINA MAIN PROTOCOL v4.2
 
-CINA Labs is building deterministic settlement, entitlement, NAV reconciliation, and asset-liability accounting infrastructure for tokenized real-world assets.
+### PASSED
 
-CINA Main Protocol v4.2 has completed reproducible implementation verification and full scripted Sepolia acceptance. Token Studio supports institutional fund operations, while the CINA DApp provides user access to supported on-chain flows.
+Reproducible implementation verification and full scripted Sepolia acceptance completed.
 
-We are opening the protocol to community engineers interested in:
+Settlement · Exit · Re-entry · NAV Reconciliation · Coverage Failure · Attributed Retirement · Missed-Window Recovery
+
+## CNP SERIES — COMING NEXT
+
+Community engineers are invited to review, challenge and extend the protocol specification.
+
+CINA Labs is building deterministic settlement, entitlement, NAV reconciliation, and asset-liability accounting infrastructure for tokenized real-world assets. Token Studio supports institutional fund operations, while the CINA DApp provides user access to supported on-chain flows.
+
+Community contributors with strong interests or experience in the following areas are welcome:
 
 - Solidity / EVM protocol engineering
 - DeFi and ERC-4626
